@@ -1,4 +1,4 @@
-# Detecting Reversal Points in US Equities 📈
+# Detecting Reversal Points in US Equities 
 
 **Kaggle Competition**: [Detecting Reversal Points in US Equities](https://www.kaggle.com/competitions/detecting-reversal-points-in-us-equities)
 
